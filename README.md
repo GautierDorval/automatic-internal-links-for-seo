@@ -41,3 +41,5 @@ This plugin exists to standardize internal linking using explicit rules defined 
 ## Author
 
 Automatic Internal Links for SEO is developed and maintained by Gautier Dorval (Pagup ecosystem).
+
+– Mirror repository (Codeberg): https://codeberg.org/gautierdorval/automatic-internal-links-for-seo
