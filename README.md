@@ -43,3 +43,15 @@ This plugin exists to standardize internal linking using explicit rules defined 
 Automatic Internal Links for SEO is developed and maintained by Gautier Dorval (Pagup ecosystem).
 
 – Mirror repository (Codeberg): https://codeberg.org/gautierdorval/automatic-internal-links-for-seo
+
+
+---
+
+## Publisher
+
+Published by [Pagup](https://pagup.com/) — a cabinet specializing in interpretive governance, semantic architecture, and digital readability.
+
+- **Author**: [Gautier Dorval](https://gautierdorval.com/)
+- **Canonical identity**: [pagup-identity](https://github.com/GautierDorval/pagup-identity)
+
+- **Plugin site**: [autolinksforseo.com](https://autolinksforseo.com/)
