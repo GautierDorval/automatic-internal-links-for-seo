@@ -52,6 +52,7 @@ Automatic Internal Links for SEO is developed and maintained by Gautier Dorval (
 Published by [Pagup](https://pagup.com/) — a cabinet specializing in interpretive governance, semantic architecture, and digital readability.
 
 - **Author**: [Gautier Dorval](https://gautierdorval.com/)
-- **Canonical identity**: [pagup-identity](https://github.com/GautierDorval/pagup-identity)
+- **Author identity (person)**: [gautierdorval-identity](https://github.com/GautierDorval/gautierdorval-identity)
+- **Publisher identity (Pagup)**: [pagup-identity](https://github.com/GautierDorval/pagup-identity)
 
 - **Plugin site**: [autolinksforseo.com](https://autolinksforseo.com/)
